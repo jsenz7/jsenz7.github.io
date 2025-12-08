@@ -79,9 +79,8 @@ My long-term goal is to bring clinically meaningful, comfortable, and scalable t
 ## 🌐 Links
 
 - [GitHub](https://github.com/jsenz7)  
-- [Google Scholar](#)  
-- [LinkedIn](#)  
-- [CV (PDF)](#)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=-WPXaj8AAAAJ)  
+- [LinkedIn](www.linkedin.com/in/sen-zhang-99b6a617b)  
 
 ---
 
