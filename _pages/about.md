@@ -1,72 +1,34 @@
 ---
 layout: about
-title: About
-permalink: /about/
-nav_order: 1
+title: about
+permalink: /
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  address: |
-    University of Washington  
-    Seattle, WA
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **wearable sensing systems**. I am currently a **Postdoctoral Scholar** in Electrical & Computer Engineering at the **University of Washington**, working with Prof. Yiyue Luo.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My work focuses on creating **machine-knitted multimodal sensing textiles** capable of measuring muscle activity (EMG), joint motion, pressure, and physiological signals, while also enabling **haptic feedback** and closed-loop interaction. I design wearable systems that are soft, comfortable, manufacturable at scale, and suitable for long-term **in-home rehabilitation and health monitoring**.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I am particularly interested in developing technologies that bridge advanced textile manufacturing with **human–computer interaction, neurorehabilitation, assistive technologies, and soft robotics**.
-
----
-
-## 🔬 Research Directions
-
-**• Multimodal smart textiles (EMG, EIT, motion sensing)**  
-Integrating electrical impedance tomography, muscle sensing, and kinematic tracking into knitted fabrics for real-time movement and physiological monitoring.
-
-**• Magnetoactive and haptic textiles**  
-Designing knitted electromagnets and magnetoactive fibers that provide tactile feedback and embodied interaction.
-
-**• Wearable systems for rehabilitation**  
-Creating soft, portable, and user-friendly systems that support at-home physical therapy, remote assessment, and long-term motor recovery.
-
-**• Soft robotic and electromechanical textile actuation**  
-Exploring knitted coils, soft magnetic actuators, and textile-driven mechanical systems.
-
----
-
-## 🚀 Current Projects
-
-### **MultiSensKnit**  
-A multimodal smart textile sleeve that integrates EMG, electrical impedance tomography (EIT), joint motion sensing, and pressure feedback for **in-home upper-limb rehabilitation**.
-
-### **MagTex**  
-A machine-knitted magnetoactive textile enabling **bidirectional interaction** — sensing touch and deformation while providing programmable haptic feedback.
-
-### **FingerGlove**  
-A lightweight magnetic-sensing glove enabling **real-time gesture control**, gaming interaction, and soft haptic feedback.
-
----
-
-## 🧩 Entrepreneurship
-
-I am part of the **UW ECE Entrepreneurial Fellows Program**, where I am translating textile-based sensing systems into viable health-tech products. I have completed:
-
-- **NSF I-Corps (regional + national)**  
-- **Customer discovery studies (25+ clinicians, therapists, and industry professionals)**  
-- **A provisional patent on multimodal textile sensing systems**
-
-My long-term goal is to bring clinically meaningful, comfortable, and scalable textile sensing systems into everyday rehabilitation and wellness applications.
-
----
-
-## 🌐 Links
-
-- [Google Scholar](#)  
-- [GitHub](https://github.com/jsenz7)  
-- [LinkedIn](#)  
-- [CV (PDF)](#)
-
----
-
-Feel free to reach out if you’d like to collaborate on smart textiles, sensing systems, or rehabilitation technologies.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
