@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   address: |
     University of Washington  
-    Seattle, WA  
+    Seattle, WA
 ---
 
 I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **wearable sensing systems**. I am currently a **Postdoctoral Scholar** in Electrical & Computer Engineering at the **University of Washington**, working with Prof. Yiyue Luo.
@@ -48,8 +48,10 @@ A lightweight magnetic-sensing glove enabling **real-time gesture control**, gam
 
 ---
 
-## 🧩 Entrepreneurship  
+## 🧩 Entrepreneurship
+
 I am part of the **UW ECE Entrepreneurial Fellows Program**, where I am translating textile-based sensing systems into viable health-tech products. I have completed:
+
 - **NSF I-Corps (regional + national)**  
 - **Customer discovery studies (25+ clinicians, therapists, and industry professionals)**  
 - **A provisional patent on multimodal textile sensing systems**
@@ -59,6 +61,7 @@ My long-term goal is to bring clinically meaningful, comfortable, and scalable t
 ---
 
 ## 🌐 Links
+
 - [Google Scholar](#)  
 - [GitHub](https://github.com/jsenz7)  
 - [LinkedIn](#)  
