@@ -27,11 +27,11 @@ latest_posts:
   limit: 3
 ---
 
-I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **advanced manufacturing**. I am currently a **Postdoctoral Scholar** in Electrical & Computer Engineering at the **University of Washington**, working with [Prof. Yiyue Luo](https://people.ece.uw.edu/luo_yiyue/index.html). I completed my Ph.D. at the **Wilson College of Textiles, North Carolina State University**, working with [Prof. Xiaomeng Fang](https://textiles.ncsu.edu/people/xfang3/).
+I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **advanced manufacturing**. I am currently a **Postdoctoral Scholar** in Electrical & Computer Engineering at the University of Washington, working with [Prof. Yiyue Luo](https://people.ece.uw.edu/luo_yiyue/index.html). I completed my Ph.D. at the Wilson College of Textiles, North Carolina State University, working with [Prof. Xiaomeng Fang](https://textiles.ncsu.edu/people/xfang3/).
 
-My work focuses on creating **machine-knitted multimodal sensing textiles** capable of measuring muscle activity (EMG), joint motion, pressure, and physiological signals—while also enabling **haptic feedback** and closed-loop interaction. I design wearable systems that are soft, comfortable, manufacturable at scale, and suitable for long-term **in-home rehabilitation and health monitoring**.
+My work focuses on creating the smart garment capable of measuring biosignals, while also enabling feedback and closed-loop interaction. I design wearable systems that are soft, comfortable, manufacturable at scale, and suitable for long-term use for healthcare.
 
-I am particularly interested in bridging advanced textile manufacturing with **human–computer interaction, neurorehabilitation, assistive technologies**, and **soft robotics**.
+I am particularly interested in bridging advanced textile and polymer manufacturing with human–computer interaction, neurorehabilitation, assistive technologies, and soft robotics.
 
 ---
 
