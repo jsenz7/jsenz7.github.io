@@ -7,69 +7,69 @@ subtitle: "<a href='#'>Postdoctoral Scholar, UW ECE</a> · Smart Textiles · Sof
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>University of Washington</p>
     <p>Department of Electrical & Computer Engineering</p>
     <p>Seattle, WA, USA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **advanced manufacturing**. I am currently a Postdoctoral Scholar in Electrical & Computer Engineering at the **University of Washington**, working with Prof. Yiyue Luo (https://people.ece.uw.edu/luo_yiyue/index.html). I graduated from Wilson College of Textiles from North Carolina State University, working with Prof. Xiaomeng Fang (https://textiles.ncsu.edu/people/xfang3/).
+I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **advanced manufacturing**. I am currently a **Postdoctoral Scholar** in Electrical & Computer Engineering at the **University of Washington**, working with [Prof. Yiyue Luo](https://people.ece.uw.edu/luo_yiyue/index.html). I completed my Ph.D. at the **Wilson College of Textiles, North Carolina State University**, working with [Prof. Xiaomeng Fang](https://textiles.ncsu.edu/people/xfang3/).
 
-My work focuses on creating **machine-knitted multimodal sensing textiles** capable of measuring muscle activity (EMG), joint motion, pressure, and physiological signals, while also enabling **haptic feedback** and closed-loop interaction. I design wearable systems that are soft, comfortable, manufacturable at scale, and suitable for long-term **in-home rehabilitation and health monitoring**.
+My work focuses on creating **machine-knitted multimodal sensing textiles** capable of measuring muscle activity (EMG), joint motion, pressure, and physiological signals—while also enabling **haptic feedback** and closed-loop interaction. I design wearable systems that are soft, comfortable, manufacturable at scale, and suitable for long-term **in-home rehabilitation and health monitoring**.
 
-I am particularly interested in technologies that bridge advanced textile manufacturing with **human–computer interaction, neurorehabilitation, assistive technologies, and soft robotics**.
+I am particularly interested in bridging advanced textile manufacturing with **human–computer interaction, neurorehabilitation, assistive technologies**, and **soft robotics**.
 
 ---
 
 ## 🔬 Research Directions
 
 - **Multimodal smart textiles (EMG, EIT, motion sensing)**  
-  Integrating electrical impedance tomography, muscle sensing, and kinematic tracking into knitted fabrics for real-time movement and physiological monitoring.
+  Integrating impedance tomography, muscle sensing, and kinematic tracking into knitted fabrics for real-time physiological monitoring.
 
 - **Magnetoactive and haptic textiles**  
-  Designing knitted electromagnets and magnetoactive fibers that provide tactile feedback and embodied interaction.
+  Designing knitted electromagnets and magnetoactive fibers that provide programmable tactile feedback.
 
 - **Wearable systems for rehabilitation**  
-  Creating soft, portable, and user-friendly systems that support at-home physical therapy, remote assessment, and long-term motor recovery.
+  Creating soft, portable systems enabling at-home physical therapy and remote motor assessment.
 
-- **Soft robotic and electromechanical textile actuation**  
-  Exploring knitted coils, soft magnetic actuators, and textile-driven mechanical systems.
+- **Soft robotic / textile electromechanical actuation**  
+  Exploring knitted coils, soft magnetic actuators, and textile-driven robotic mechanisms.
 
 ---
 
 ## 🚀 Current Projects
 
 ### **MultiSensKnit**  
-A multimodal smart textile sleeve that integrates EMG, electrical impedance tomography (EIT), joint motion sensing, and pressure feedback for **in-home upper-limb rehabilitation**.
+A multimodal smart textile sleeve integrating EMG, EIT, motion sensing, and pressure feedback for **in-home upper-limb rehabilitation**.
 
 ### **MagTex**  
-A machine-knitted magnetoactive textile enabling **bidirectional interaction** — sensing touch and deformation while providing programmable haptic feedback.
+A machine-knitted magnetoactive textile enabling **bidirectional interaction**: sensing deformation while producing tunable haptic feedback.
 
 ### **FingerGlove**  
-A lightweight magnetic-sensing glove enabling **real-time gesture control**, gaming interaction, and soft haptic feedback.
+A lightweight magnetic-sensing glove enabling **real-time gesture control**, gaming interaction, and soft haptic actuation.
 
 ---
 
 ## 🧩 Entrepreneurship
 
-I am part of the **UW ECE Entrepreneurial Fellows Program**, where I am translating textile-based sensing systems into viable health-tech products. This work has included:
+I am part of the **UW ECE Entrepreneurial Fellows Program**, where I translate textile-based sensing systems into emerging health-tech products. My commercialization work includes:
 
 - **NSF I-Corps (regional + national)**  
-- **Customer discovery with 25+ clinicians, therapists, and industry professionals**  
+- **Customer discovery with 25+ clinicians, therapists, and industry experts**  
 - **A provisional patent on multimodal textile sensing systems**
 
 My long-term goal is to bring clinically meaningful, comfortable, and scalable textile sensing systems into everyday rehabilitation and wellness applications.
@@ -80,7 +80,7 @@ My long-term goal is to bring clinically meaningful, comfortable, and scalable t
 
 - [GitHub](https://github.com/jsenz7)  
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=-WPXaj8AAAAJ)  
-- [LinkedIn](www.linkedin.com/in/sen-zhang-99b6a617b)  
+- [LinkedIn](https://www.linkedin.com/in/sen-zhang-99b6a617b/)  
 
 ---
 
