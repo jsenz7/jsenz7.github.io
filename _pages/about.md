@@ -6,7 +6,7 @@ subtitle: "<a href='#'>Postdoctoral Scholar, UW ECE</a> · Smart Textiles · Sof
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sen.jpg
   image_circular: false
   more_info: >
     <p>University of Washington</p>
