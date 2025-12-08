@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **wearable sensing systems**. I am currently a **Postdoctoral Scholar** in Electrical & Computer Engineering at the **University of Washington**, working with Prof. **Yiyue Luo**.
+I’m **Sen Zhang (张森)** — a researcher and engineer working at the intersection of **smart textiles**, **soft robotics**, and **advanced manufacturing**. I am currently a Postdoctoral Scholar in Electrical & Computer Engineering at the **University of Washington**, working with Prof. Yiyue Luo (https://people.ece.uw.edu/luo_yiyue/index.html). I graduated from Wilson College of Textiles from North Carolina State University, working with Prof. Xiaomeng Fang (https://textiles.ncsu.edu/people/xfang3/).
 
 My work focuses on creating **machine-knitted multimodal sensing textiles** capable of measuring muscle activity (EMG), joint motion, pressure, and physiological signals, while also enabling **haptic feedback** and closed-loop interaction. I design wearable systems that are soft, comfortable, manufacturable at scale, and suitable for long-term **in-home rehabilitation and health monitoring**.
 
