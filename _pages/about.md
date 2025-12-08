@@ -8,10 +8,6 @@ profile:
   align: right
   image: sen.jpg
   image_circular: false
-  more_info: >
-    <p>University of Washington</p>
-    <p>Department of Electrical & Computer Engineering</p>
-    <p>Seattle, WA, USA</p>
 
 selected_papers: true
 social: true
@@ -63,9 +59,6 @@ A multimodal smart textile sleeve integrating EMG, EIT, motion sensing, and pres
 ### **MagTex**  
 A machine-knitted magnetoactive textile enabling **bidirectional interaction**: sensing deformation while producing tunable haptic feedback.
 
-### **FingerGlove**  
-A lightweight magnetic-sensing glove enabling **real-time gesture control**, gaming interaction, and soft haptic actuation.
-
 ---
 
 ## 🧩 Entrepreneurship
@@ -73,7 +66,7 @@ A lightweight magnetic-sensing glove enabling **real-time gesture control**, gam
 I am part of the **UW ECE Entrepreneurial Fellows Program**, where I translate textile-based sensing systems into emerging health-tech products. My commercialization work includes:
 
 - **NSF I-Corps (regional + national)**  
-- **Customer discovery with 25+ clinicians, therapists, and industry experts**  
+- **Customer discovery with clinicians, therapists, and industry experts**  
 - **A provisional patent on multimodal textile sensing systems**
 
 My long-term goal is to bring clinically meaningful, comfortable, and scalable textile sensing systems into everyday rehabilitation and wellness applications.
