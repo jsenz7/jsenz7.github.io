@@ -65,7 +65,7 @@ A machine-knitted magnetoactive textile enabling **bidirectional interaction**: 
 
 I am part of the **UW ECE Entrepreneurial Fellows Program**, where I translate textile-based sensing systems into emerging health-tech products. My commercialization work includes:
 
-- **NSF I-Corps (regional + national)**  
+- **NSF I-Corps**  
 - **Customer discovery with clinicians, therapists, and industry experts**  
 - **A provisional patent on multimodal textile sensing systems**
 
