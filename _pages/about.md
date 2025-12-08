@@ -33,6 +33,10 @@ My work focuses on creating the smart garment capable of measuring biosignals, w
 
 I am particularly interested in bridging advanced textile and polymer manufacturing with human–computer interaction, neurorehabilitation, assistive technologies, and soft robotics.
 
+
+
+
+
 ---
 
 ## 🔬 Research Directions
