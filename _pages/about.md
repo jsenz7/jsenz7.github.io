@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='#'>Postdoctoral Scholar, UW ECE</a> · Smart Textiles · Soft Robotics · Wearable Sensing"
+subtitle: "<a href='#'>Postdoctoral Scholar, UW ECE</a> · Smart Textiles · Soft Robotics · Advanced Manufacturing"
 
 profile:
   align: right
